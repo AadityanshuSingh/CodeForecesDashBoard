@@ -3,7 +3,7 @@ import { Grid, GridItem } from '@chakra-ui/react'
 import User from './components/User'
 import useApi from './components/api'
 import Nav from './components/Nav'
-import Header from './components/header'
+import Header from './components/Header'
 import Graph from './components/graph'
 import Footer from './components/footer'
 
